@@ -3,9 +3,10 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Välkommen! 
 ==========================
 
-The source for this page is in `content/index.md`.
+Du har kommit till en redovisningssida till en kurs på Blekinge Tekniska Högskola. Jag som har gjort sidan heter Jacob och läser programmet Webbprogrammering. En lite längre presentation av mig kommer att komma upp på en separat sida senare.
 
-This is a sample home page written in markdown with some frontmatter defined.
+![me](%assets_url%/img/BWportrait.jpg){.mindreBild}
+
